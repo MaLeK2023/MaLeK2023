@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MaLeK2023
+- 👋 Hi, I’m Malek
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python & Django
 - 💞️ I’m looking to collaborate on Projects

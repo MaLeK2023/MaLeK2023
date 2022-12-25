@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MaLeK2023
-- 👀 I’m interested in ..
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Python & Django
+- 💞️ I’m looking to collaborate on Projects
 
 <!---
 MaLeK2023/MaLeK2023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

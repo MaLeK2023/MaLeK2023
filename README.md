@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on learning **Python** & **Django**
 - 🌱 I’m currently exploring backend & APIs
 - 💬 Ask me about anything related to Python or Web Dev
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/YourLinkedIn) | [Email](mailto:your@email.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/feed/) | [Email](mailto:malek.alhussin@outlook.de)
 
 ---
 
